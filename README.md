@@ -98,9 +98,9 @@ Le document est également fourni sous forme de projet LaTeX afin de faciliter s
 └── .gitignore
 ```
 
-## Auteurs
+## Auteur
 
 **Ahmed Chegueni**  
-**Taher Bazzi**
+
 
 Projet académique réalisé dans le cadre d'une formation en Informatique et Réseaux.
