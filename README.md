@@ -78,20 +78,7 @@ Le rapport complet du projet est disponible ici :
 
 Le document est également fourni sous forme de projet LaTeX afin de faciliter sa consultation et sa modification.
 
-## Compilation LaTeX
 
-Sur **Overleaf** :
-
-1. importer le contenu du dépôt ;
-2. sélectionner `main.tex` comme document principal ;
-3. utiliser **pdfLaTeX** ;
-4. compiler le document.
-
-En local avec une distribution TeX Live :
-
-```bash
-latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
-```
 
 ## Structure du projet
 
