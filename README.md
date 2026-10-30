@@ -72,11 +72,7 @@ Les résultats détaillés et les captures des expérimentations sont disponible
 
 ## Rapport
 
-Le rapport complet du projet est disponible ici :
-
-**[Consulter le rapport IDS](rapport-IDS.pdf)**
-
-Le document est également fourni sous forme de projet LaTeX afin de faciliter sa consultation et sa modification.
+Le rapport complet du projet est disponible en pdf sous le nom de rapport_IDS_Ahmed_Chegueni
 
 
 
